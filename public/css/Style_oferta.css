@@ -1,0 +1,30 @@
+/*oferta*/
+/*to przechowuje wszystkie auta*/
+.container{
+    min-height:200vh;
+    padding-left: 25vw;
+    padding-right: 25vw;
+}
+
+.window{
+    display: flex;
+    padding: 5px;
+    margin-top: 10px;
+    width:50vw;
+    min-width:720px;
+}
+
+.img{
+    width: 500px;
+    height: 300px;
+}
+
+.txt{
+    margin-left: 5px;
+}
+
+/* kolory
+niebieski #5DADE2  
+bialy #ECF0F1
+szary #626567
+*/

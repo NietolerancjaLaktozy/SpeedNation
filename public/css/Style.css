@@ -1,0 +1,50 @@
+/*zastapienia bootstrap*/
+/*background*/
+.bg-gray-100 {
+    --tw-bg-opacity: 1;
+    background-color:#ECF0F1!important;
+}
+
+/*linki w menu*/
+.border-indigo-400 {
+    --tw-border-opacity: 1;
+    border-color: #5DADE2!important;
+}
+
+.c-white{
+    color:white!important;
+}
+
+.c-blue{
+    color:#5DADE2!important;
+}
+
+.bg-grey{
+    background-color:#626567!important;
+}
+
+.bg-lgrey{
+    background-color:#ECF0F1!important;
+}
+
+.content{
+    padding:10px;
+}
+
+
+/*
+.content{
+    text-align: center;
+    padding-top: 15px;
+    min-height: 100vh;
+}*/
+
+
+
+
+
+/* kolory
+niebieski #5DADE2  
+bialy #ECF0F1
+szary #626567
+*/
